@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
 import random
-from PIL import Image
+from PIL import Image:
     logo = Image.open('logo1.png')
 #pip install pandas numpy matplotlib seaborn streamlit
 #to run strealit :   streamlit run test2.py 
